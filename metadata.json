@@ -1,0 +1,5 @@
+{
+  "name": "GoBabyGo",
+  "description": "An intelligent app that suggests personalized baby product bundles (car seats, strollers, etc.) based on your budget, lifestyle, and daily activities. It leverages AI to analyze product reviews and compatibility to create the perfect bundle for you and your little one.",
+  "requestFramePermissions": []
+}
