@@ -2,8 +2,6 @@
 
 **GoBabyGo** is an intelligent web application designed to simplify the overwhelming process of choosing baby gear. By combining a personalized quiz with the power of Google Gemini AI, GoBabyGo suggests perfectly matched bundles of strollers and car seats tailored to your specific budget, lifestyle, and daily needs.
 
-![GoBabyGo Preview](https://picsum.photos/seed/babygear/1200/600?blur=2)
-
 ## ✨ Features
 
 - **Personalized Quiz:** Answer a few quick questions about your budget, where you live (city vs. suburbs), and your primary activities.
